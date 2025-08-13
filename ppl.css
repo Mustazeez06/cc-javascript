@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 540px;
+}
+
+.icons{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.icons a{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.icons i:hover{
+    margin-bottom: 10px;
+}
+.fa-facebook-f{
+    color: blue;
+}
+.fa-quora{
+    color: violet;
+}
+.fa-google{
+    color: green;
+}
+.fa-tiktok{
+    color: black;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-instagram{
+    color: peachpuff;
+}

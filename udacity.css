@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: ;
+    background-color: #a59f9f;
+    font-family: montserrat;
+}
+.container{
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+}
+.top-btns{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.top-btns span{
+    width: 50%;
+    padding: 10px 0;
+    text-align: center;
+}
